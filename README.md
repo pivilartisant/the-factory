@@ -5,12 +5,12 @@ A production-ready, efficient, and modular system for generating PNG images from
 ## Features
 
 - **CLI Tool**: Batch process multiple jobs with a single command
-- ** Web Interface**: Simple UI for single job processing and preview
-- ** Template System**: HTML templates with placeholder replacement
-- ** Creative Configs**: Control fonts, colors, layout, and styling
-- ** Google Fonts**: Automatic font loading from Google Fonts
-- ** Smart Formatting**: Automatic salary formatting and text truncation
-- ** Performance**: Shared browser instances for efficiency
+- **Web Interface**: Simple UI for single job processing and preview
+- **Template System**: HTML templates with placeholder replacement
+- **Creative Configs**: Control fonts, colors, layout, and styling
+- **Google Fonts**: Automatic font loading from Google Fonts
+- **Smart Formatting**: Automatic salary formatting and text truncation
+- **Performance**: Shared browser instances for efficiency
 
 ## Quick Start
 
