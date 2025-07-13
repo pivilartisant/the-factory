@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Full Stack Developer",
+    "company": "TechCorp",
+    "company_url": "https://techcorp.com",
+    "job_url": "https://techcorp.com/jobs/123",
+    "location": {
+      "country": "USA",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "is_remote": true,
+    "description": "We are looking for a talented full stack developer to join our growing team. You'll work on exciting projects using modern technologies like React, Node.js, and PostgreSQL, and have the opportunity to make a real impact on our platform.",
+    "job_type": "fulltime",
+    "job_function": {
+      "interval": "yearly",
+      "min_amount": 120000,
+      "max_amount": 180000,
+      "currency": "USD",
+      "salary_source": "direct_data"
+    },
+    "date_posted": "2025-07-13",
+    "emails": ["apply@techcorp.com"]
+  },
+  {
+    "title": "Senior Frontend Engineer",
+    "company": "DesignStudio",
+    "company_url": "https://designstudio.com",
+    "job_url": "https://designstudio.com/careers/frontend",
+    "location": {
+      "country": "USA",
+      "city": "New York",
+      "state": "NY"
+    },
+    "is_remote": false,
+    "description": "Join our creative team as a Senior Frontend Engineer. You'll build beautiful, responsive user interfaces using React, TypeScript, and modern CSS frameworks. Perfect for someone passionate about user experience and clean code.",
+    "job_type": "fulltime",
+    "job_function": {
+      "interval": "yearly",
+      "min_amount": 140000,
+      "max_amount": 200000,
+      "currency": "USD",
+      "salary_source": "direct_data"
+    },
+    "date_posted": "2025-07-12",
+    "emails": ["careers@designstudio.com"]
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "CloudTech",
+    "company_url": "https://cloudtech.io",
+    "job_url": "https://cloudtech.io/jobs/devops",
+    "location": {
+      "country": "USA",
+      "city": "Austin",
+      "state": "TX"
+    },
+    "is_remote": true,
+    "description": "We're seeking a DevOps Engineer to help scale our infrastructure. You'll work with Kubernetes, AWS, Docker, and CI/CD pipelines to ensure our applications run smoothly at scale.",
+    "job_type": "fulltime",
+    "job_function": {
+      "interval": "yearly",
+      "min_amount": 130000,
+      "max_amount": 170000,
+      "currency": "USD",
+      "salary_source": "direct_data"
+    },
+    "date_posted": "2025-07-11",
+    "emails": ["devops-jobs@cloudtech.io"]
+  }
+]

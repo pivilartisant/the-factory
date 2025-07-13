@@ -41,13 +41,13 @@ npm run cli -- --jobs ./data/jobs.json --creative ./creative/theme.json --templa
 Or using the binary:
 
 ```bash
-npx warhol --jobs ./data/jobs.json --creative ./creative/theme.json --template ./templates/job-card.html
+npx factory --jobs ./data/jobs.json --creative ./creative/theme.json --template ./templates/job-card.html
 ```
 
 ## 📁 Project Structure
 
 ```
-warhol-factory/
+the-factory/
 ├── cli/                    # CLI batch processing
 │   ├── index.js           # CLI entry point
 │   └── batchRender.js     # Batch rendering logic

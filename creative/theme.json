@@ -1,0 +1,27 @@
+{
+  "canvas": {
+    "width": 1200,
+    "height": 630,
+    "padding": "40px",
+    "backgroundColor": "#FAFAFA"
+  },
+  "fonts": {
+    "heading": "Ballet",
+    "body": "EB Garamond",
+    "size": {
+      "title": "48px",
+      "meta": "24px"
+    }
+  },
+  "colors": {
+    "text": "#222222",
+    "accent": "#0D00FF"
+  },
+  "layout": "france-chomage-basic",
+  "elements": {
+    "include_logo": false,
+    "show_email": false,
+    "truncate_description": true,
+    "max_description_words": 25
+  }
+}
