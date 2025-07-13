@@ -1,18 +1,18 @@
-# 🎨 The Factory
+# The Factory
 
-A production-ready, efficient, and modular system for generating PNG images from job data using Puppeteer. Features both CLI batch processing and a minimalist web interface.
+A production-ready, efficient, and modular system for generating PNG images from job data using Puppeteer. Features both CLI batch processing and a minimalist web interface
 
-## ✨ Features
+## Features
 
-- **🔧 CLI Tool**: Batch process multiple jobs with a single command
-- **🌐 Web Interface**: Simple UI for single job processing and preview
-- **📐 Template System**: HTML templates with placeholder replacement
-- **🎨 Creative Configs**: Control fonts, colors, layout, and styling
-- **📱 Google Fonts**: Automatic font loading from Google Fonts
-- **💰 Smart Formatting**: Automatic salary formatting and text truncation
-- **⚡ Performance**: Shared browser instances for efficiency
+- **CLI Tool**: Batch process multiple jobs with a single command
+- ** Web Interface**: Simple UI for single job processing and preview
+- ** Template System**: HTML templates with placeholder replacement
+- ** Creative Configs**: Control fonts, colors, layout, and styling
+- ** Google Fonts**: Automatic font loading from Google Fonts
+- ** Smart Formatting**: Automatic salary formatting and text truncation
+- ** Performance**: Shared browser instances for efficiency
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
@@ -130,7 +130,7 @@ The system supports flexible job data formats. Here are two common structures:
 - **Preview/Single Generation**: Uses the first job in an array
 - **Batch Processing**: CLI processes all jobs in the array
 
-## 🎨 Creative Config Schema
+## Creative Config Schema
 
 ```json
 {
@@ -159,7 +159,7 @@ The system supports flexible job data formats. Here are two common structures:
 }
 ```
 
-## 🔧 Template Placeholders
+## Template Placeholders
 
 Available placeholders in HTML templates:
 
@@ -185,7 +185,7 @@ Available placeholders in HTML templates:
 - `{{color_text}}` - Text color
 - `{{color_accent}}` - Accent color
 
-## 🔗 API Endpoints
+## API Endpoints
 
 ### POST /api/render
 Generate PNG from job data
@@ -231,14 +231,14 @@ Create JSON files in `creative/` directory with:
 - Templates are loaded on-demand
 - Large batches process sequentially to manage memory
 
-## 🔒 Security
+## Security
 
 - Input validation on all JSON inputs
 - File path sanitization
 - No arbitrary code execution
 - Rate limiting recommended for production use
 
-## 📄 License
+## License
 
 MIT License - see LICENSE file for details.
-# the-factory
+
