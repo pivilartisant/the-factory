@@ -71,7 +71,7 @@ the-factory/
 └── output/                # Generated PNG output
 ```
 
-## 📋 Job Data Schema
+## Job Data Schema
 
 The system supports flexible job data formats. Here are two common structures:
 
@@ -224,7 +224,7 @@ Create JSON files in `creative/` directory with:
 - Color scheme
 - Layout options
 
-## 📊 Performance Notes
+## Performance Notes
 
 - Browser instance is shared across requests for efficiency
 - Fonts are loaded from Google Fonts CDN
